@@ -1,0 +1,14 @@
+layout_spectrum: 0.019858622923493385
+typography_spectrum: 0.9974176320247352
+color:
+  brandStrength: 0.2357350829988718
+  lightness: 0.5409704856574535
+  saturation: 0.7512277124915272
+  rhythmicContrast: 0.658101188018918
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: cinematographer
